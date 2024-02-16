@@ -1,6 +1,6 @@
 baseURL = "https://mmandersheid.github.io/shortvoyage/"
 languageCode = 'en-us'
-title = 'Wild Card'
+title = 'short voyage'
 theme = 'hugo-theme-console'
 
 [params]

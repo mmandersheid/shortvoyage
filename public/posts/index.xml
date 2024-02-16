@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Wild Card</title>
+    <link>https://mmandersheid.github.io/shortvoyage/posts/</link>
+    <description>Recent content in Posts on Wild Card</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Feb 2024 11:51:25 -0500</lastBuildDate>
+    <atom:link href="https://mmandersheid.github.io/shortvoyage/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://mmandersheid.github.io/shortvoyage/posts/hello-world/</link>
+      <pubDate>Fri, 16 Feb 2024 11:51:25 -0500</pubDate>
+      <guid>https://mmandersheid.github.io/shortvoyage/posts/hello-world/</guid>
+      <description>Hello World!</description>
+    </item>
+    <item>
+      <title>Factorio</title>
+      <link>https://mmandersheid.github.io/shortvoyage/posts/factorio/</link>
+      <pubDate>Fri, 16 Feb 2024 11:25:49 -0500</pubDate>
+      <guid>https://mmandersheid.github.io/shortvoyage/posts/factorio/</guid>
+      <description>In the realm of gears and steam, Where conveyor belts weave like a dream, Factorio, the land of machination, A world born from imagination.&#xA;Iron and copper, ores of the earth, Fuel the factories, giving them birth. Belts intertwine in a rhythmic dance, Engines hum in a hypnotic trance.&#xA;Pipes hiss with the steam&amp;rsquo;s hot breath, In this symphony of progress and death. Automatons toil under the sun and moon, To the rhythm of the industrial tune.</description>
+    </item>
+  </channel>
+</rss>
