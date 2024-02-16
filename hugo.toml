@@ -1,4 +1,4 @@
-baseURL = 'example.org/'
+baseURL = "https://mmandersheid.github.io/shortvoyage/"
 languageCode = 'en-us'
 title = 'Wild Card'
 theme = 'hugo-theme-console'
